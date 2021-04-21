@@ -1,0 +1,13 @@
+#main-container {
+  height: 800px;
+}
+
+.options-row {
+  height: 600px;
+}
+
+.option-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
